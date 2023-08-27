@@ -14,7 +14,7 @@ module.exports = {
     name: `정성혜`,
     bio: {
       role: `개발자`,
-      description: ['끊임없이 도전하는', '좋을 코드를 고민하는', '함께 일할 때 행복을 느끼는'],
+      description: ['끊임없이 도전하는', '좋은 코드를 고민하는', '함께 일할 때 행복을 느끼는'],
       thumbnail: 'profile.png', // Path to the image in the 'asset' folder
     },
     social: {
